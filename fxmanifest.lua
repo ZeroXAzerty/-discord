@@ -1,16 +1,10 @@
 fx_version 'adamant'
 game 'gta5'
 
-client_scripts {
-    'ano.lua',
-    'discord.lua',
-    'disquette.lua',
-    'car.lua',
-    'clear.lua',
-    'tweet.lua',
-    'repair.lua',
-    'suicide.lua',
-    'revive.lua',
-    'crosshair.lua',
+author 'ZeroX'
+description 'Discord : https://discord.gg/gq4wBDkKzF'
+version '1.0.0'
 
+client_scripts {
+    'discord.lua'
 }
